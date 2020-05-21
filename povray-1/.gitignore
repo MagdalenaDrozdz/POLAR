@@ -59,7 +59,6 @@
 *.log
 *.vspscc
 *.vssscc
-.builds
 *.pidb
 *.svclog
 *.scc
@@ -150,11 +149,7 @@ $RECYCLE.BIN/
 # POV-Ray Windows build artefacts
 # ===============================
 
-/windows/vs*/.vs/
-/windows/vs*/bin32/
-/windows/vs*/bin64/
-/windows/vs*/build/
-/windows/vs*/ipch/
+
 
 # ============================
 # POV-Ray Unix build artefacts
